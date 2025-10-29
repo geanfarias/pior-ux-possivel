@@ -2,7 +2,7 @@
 
 > *Repositório oficial do desafio realizado pela Codecon: criar as piores experiências de usuário possíveis*
 
-## 📖 Sobre o Desafio
+## Sobre o Desafio
 
 Este repositório contém os projetos desenvolvidos durante o desafio "A Pior UX do Mundo", onde designers e desenvolvedores front-end competiram para criar as interfaces mais irritantes e frustrantes possíveis.
 
